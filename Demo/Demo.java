@@ -1,5 +1,3 @@
-/*
-
 import com.InputLib.Input;
 
 public class Demo {
@@ -26,5 +24,3 @@ public class Demo {
     }
 
 }
-
-*/
