@@ -1,4 +1,4 @@
-package InputLib;
+package com.InputLib.Input;
 
 import java.util.Scanner;
 import java.lang.String;
