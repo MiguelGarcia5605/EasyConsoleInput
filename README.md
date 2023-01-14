@@ -9,7 +9,10 @@ Oversimplified console inputs in Java. Designed specifically for teaching Java t
 
 ## Input Class
 
-### get_string
+<details>
+<summary>get_string</summary>
+<br>
+
 > get_string(String text)
 
 **Description**
@@ -23,8 +26,13 @@ Oversimplified console inputs in Java. Designed specifically for teaching Java t
 **Return Value**
 
       Returns the user input as a 'String'. Will return 'null' if an error occurs.
+      
+</details>
 
-### get_bool
+<details>
+<summary>get_bool</summary>
+<br>
+
 > get_bool(String text)
 
 **Description**
@@ -39,7 +47,12 @@ Oversimplified console inputs in Java. Designed specifically for teaching Java t
 
       Returns the user input as a 'boolean'. Will return 'false' if an error occurs.
 
-### get_int
+</details>
+
+<details>
+<summary>get_int</summary>
+<br>
+
 > get_int(String text)
 
 **Description**
@@ -54,7 +67,12 @@ Oversimplified console inputs in Java. Designed specifically for teaching Java t
 
       Returns the user input as an 'int'. Will return '0' if an error occurs.
 
-### get_long
+</details>
+
+<details>
+<summary>get_long</summary>
+<br>
+
 > get_long(String text)
 
 **Description**
@@ -69,7 +87,12 @@ Oversimplified console inputs in Java. Designed specifically for teaching Java t
 
       Returns the user input as a 'long'. Will return '0' if an error occurs.
 
-### get_double
+</details>
+
+<details>
+<summary>get_double</summary>
+<br>
+
 > get_double(String text)
 
 **Description**
@@ -84,7 +107,12 @@ Oversimplified console inputs in Java. Designed specifically for teaching Java t
 
       Returns the user input as a 'double'. Will return '0' if an error occurs.
 
-### get_float
+</details>
+
+<details>
+<summary>get_float</summary>
+<br>
+
 > get_float(String text)
 
 **Description**
@@ -98,3 +126,5 @@ Oversimplified console inputs in Java. Designed specifically for teaching Java t
 **Return Value**
 
       Returns the user input as a 'float'. Will return '0' if an error occurs.
+
+</details>
