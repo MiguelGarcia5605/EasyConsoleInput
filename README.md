@@ -12,3 +12,21 @@ Oversimplified console inputs in Java. Designed specifically for teaching Java t
 ### get_string
 > get_string(String text)
 
+### get_bool
+> get_bool(String text)
+
+### get_int
+> get_int(String text)
+
+### get_long
+> get_long(String text)
+
+### get_double
+> get_double(String text)
+
+### get_float
+> get_float(String text)
+
+### get_string
+> get_string(String text)
+
